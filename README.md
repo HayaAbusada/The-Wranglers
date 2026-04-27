@@ -15,7 +15,7 @@ Final Deliverables Repository containing all materials used to develop this proj
 ### Reports: proposal, CDR, weekly reports, final report, and ALL presentations
 - Proposal
 - CDR
-- Final Report - not added yet
+- Final Report
 - Weekly Report #1
 - Weekly Report #2
 - Weekly Report #3
@@ -32,7 +32,7 @@ Final Deliverables Repository containing all materials used to develop this proj
 - System Photos
 
 ### Individual Notebooks (Digital)
-- Jack Uehlinger’s Notebook - not added yet
+- Jack Uehlinger’s Notebook
 - Jake Hewett’s Notebook
 - Jayden Pearson’s Notebook
 - Sara Vorhaben’s Notebook 
