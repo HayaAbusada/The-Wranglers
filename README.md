@@ -25,7 +25,7 @@ Final Deliverables Repository containing all materials used to develop this proj
 - Weekly Report #7
 - Proposal Presentation
 - CDR Presentation
-- Final Presentation - not added yet
+- Final Presentation
 
 ### Audiovisual Media: close-up pictures and demo video
 - Video Demo
