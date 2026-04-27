@@ -5,7 +5,7 @@ Final Deliverables Repository containing all materials used to develop this proj
 
 ### Designs: code, schematics, data, data sheets, freeware software tools, etc.
 - Low Fidelity Designs
-- CAD Designs - not added yet
+- CAD Designs
 - Camera Code
 - Website Code
 - Server Code
@@ -33,8 +33,8 @@ Final Deliverables Repository containing all materials used to develop this proj
 
 ### Individual Notebooks (Digital)
 - Jack Uehlinger’s Notebook - not added yet
-- Jake Hewett’s Notebook - not added yet
-- Jayden Pearson’s Notebook - not added yet
+- Jake Hewett’s Notebook
+- Jayden Pearson’s Notebook
 - Sara Vorhaben’s Notebook - not added yet
 - Haya Abusada’s Notebook
 
